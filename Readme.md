@@ -1,6 +1,6 @@
 [![GitHub Issues](https://img.shields.io/github/issues-raw/regerohan/ESP8266-WiFi-Scanner)](https://github.com/regerohan/ESP8266-WiFi-Scanner/issues)
 ![Total Commits](https://img.shields.io/github/last-commit/regerohan/ESP8266-WiFi-Scanner)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/4w/regerohan/ESP8266-WiFi-Scanner?foo=bar)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/regerohan/ESP8266-WiFi-Scanner)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 
